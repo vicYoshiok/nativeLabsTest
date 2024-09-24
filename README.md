@@ -1,4 +1,5 @@
-Prueba para vacante de desarrollo ios
+Victor Manuel Garcia Morales
+Prueba para vacante de desarrollo ios native labs
 
 Se utilizo singleton como patron de diseño para tener una y solo una instancia de la clase servicios. 
 Esta clase se ancarga de realizar el consumo de servicio, de mapear el json recibido en una estructura  y de los metodos para guardar y cargar los datos en los userdefaults
